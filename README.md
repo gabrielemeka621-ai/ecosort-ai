@@ -1,30 +1,32 @@
 # 🌍 EcoSort AI
-### Turning recycling into a global challenge
+### Turning Recycling Into a Global Challenge
 
 AI-powered waste sorting for smarter cities.
 
-EcoSort AI helps people instantly identify how to properly dispose of waste using their smartphone camera. By combining AI image recognition with gamified recycling challenges, EcoSort turns everyday waste decisions into climate action.
+EcoSort AI helps people instantly identify how to properly dispose of waste using their smartphone camera. By combining AI image recognition with gamified recycling challenges, EcoSort transforms everyday waste decisions into meaningful climate action.
 
 ---
 
-## The Problem
+## 🚨 The Problem
 
-Across the world, recycling systems fail because waste is not sorted properly at the source. Many people simply do not know where different materials should go.
+Across the world, recycling systems fail because waste is not sorted correctly at the source. Many people simply do not know where different materials should go.
 
 This leads to:
+
 - Contaminated recycling streams
 - Increased landfill waste
-- Lost recyclable materials
+- Loss of valuable recyclable materials
+- Higher waste management costs for cities
 
-EcoSort AI solves this by guiding users in real time.
+EcoSort AI addresses this problem by providing real-time guidance to users at the moment of disposal.
 
 ---
 
-## The Solution
+## 💡 The Solution
 
-EcoSort AI uses image recognition to detect waste materials and suggest the correct disposal method.
+EcoSort AI uses AI-powered image recognition to detect waste materials and guide users toward the correct disposal method.
 
-Users simply scan an item and the system identifies whether it is:
+Using their smartphone camera, users scan an item and the system identifies whether it is:
 
 - Plastic
 - Paper
@@ -32,38 +34,46 @@ Users simply scan an item and the system identifies whether it is:
 - Metal
 - Organic waste
 
-The app then provides clear instructions for disposal.
+The app then provides clear, location-aware disposal instructions, helping users make better recycling decisions instantly.
 
 ---
 
-## Key Features
+## ⚙️ Key Features
 
-• AI waste recognition  
-• Real-time disposal guidance  
-• Community recycling leaderboards  
-• City vs City sustainability challenges  
-• Environmental impact tracking  
+- 📷 AI-powered waste recognition
+- ♻️ Real-time recycling guidance
+- 🏆 Community recycling leaderboards
+- 🌎 City vs City sustainability challenges
+- 📊 Environmental impact tracking
+- 📱 Mobile-friendly interface
 
 ---
 
-## Vision
+## 🌱 Vision
 
 EcoSort AI aims to transform recycling into a global movement.
 
-By combining AI technology with gamified sustainability challenges,
-EcoSort encourages individuals, universities, and cities to compete
-in reducing waste contamination and improving recycling outcomes.
----
+By combining artificial intelligence with gamified sustainability challenges, EcoSort encourages individuals, universities, and cities to compete in reducing waste contamination and improving recycling outcomes.
 
-## Project Status
-
-Concept and prototype development phase.
-
-Future development will include AI model training and a mobile application for real-time waste recognition.
+Our long-term goal is to make climate responsibility part of everyday behavior around the world.
 
 ---
 
-## Author
+## 🚧 Project Status
 
-Gabriel Edozie
-EcoSort AI Project
+Currently in **concept and prototype development phase**.
+
+Planned development stages:
+
+1. AI image recognition model training
+2. Waste classification dataset development
+3. Mobile application prototype
+4. Real-time waste scanning system
+5. Global recycling challenge platform
+
+---
+
+## 👨‍💻 Author
+
+**Gabriel Edozie**  
+Founder — EcoSort AI
