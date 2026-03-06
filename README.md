@@ -48,12 +48,11 @@ The app then provides clear instructions for disposal.
 
 ## Vision
 
-EcoSort AI aims to become a global platform that transforms recycling into a competitive and engaging activity.
+EcoSort AI aims to transform recycling into a global movement.
 
-Cities, universities, and communities can participate in sustainability challenges and track their recycling impact.
-
-The goal is simple: make climate responsibility part of everyday life.
-
+By combining AI technology with gamified sustainability challenges,
+EcoSort encourages individuals, universities, and cities to compete
+in reducing waste contamination and improving recycling outcomes.
 ---
 
 ## Project Status
@@ -61,13 +60,7 @@ The goal is simple: make climate responsibility part of everyday life.
 Concept and prototype development phase.
 
 Future development will include AI model training and a mobile application for real-time waste recognition.
-## Vision
 
-EcoSort AI aims to transform recycling into a global movement.
-
-By combining AI technology with gamified sustainability challenges,
-EcoSort encourages individuals, universities, and cities to compete
-in reducing waste contamination and improving recycling outcomes.
 ---
 
 ## Author
