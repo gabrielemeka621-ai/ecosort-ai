@@ -66,5 +66,5 @@ Future development will include AI model training and a mobile application for r
 
 ## Author
 
-Gabriel Edwin
+Gabriel Edozie
 EcoSort AI Project
