@@ -1,5 +1,5 @@
-# ecosort-ai
-# EcoSort AI
+# 🌍 EcoSort AI
+### Turning recycling into a global challenge
 
 AI-powered waste sorting for smarter cities.
 
